@@ -6,7 +6,33 @@
 
 <p align="center">
   <div align="left" width="80%">
-    Excellent reputation for resolving problems and improving customer satisfaction. Experienced Web, Mobile, Blockchain Developing with over 5 years of experience in Software Industry managing multimillion dollar. To seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills. Hardworking and driven to work quickly and effectively on projects in all types of environments.	
+    
+### 📝Summary
+
+---
+
+Howdy, I'm a senior full-stack & blockchain developer. <br/>
+I have over 12 years of experience in building websites & web apps & software development and 5 years of experience in blockchain projects. <br/>
+I am very strong in building frontend UI based on responsive features, translating UX/UI designs into interactive interfaces, and collaborating with the backend for API & web3 integrations. <br/>
+I have rich experience in building dapps, staking/farming/lending, NFT marketplace, P2E/bots etc, so I have been working in the blockchain field for around 5 years. <br/>
+As a professional who has thrived in roles such as Project Manager and Lead Developer, I bring to the table a comprehensive blend of technical expertise and leadership acumen. <br/>
+
+My comprehensive knowledge and experience span across:
+
+- Frontend: HTML/HTML5, CSS/SCSS, Javascript/Typescript, Pixel Perfect/Responsive Design, Bootstrap/Tailwind/Material-UI/Styled Components, React.js/Angular.js/Vue.js/Next.js/Vite.js …
+- Backend: Node.js/Express.js, C#, Python …
+- Blockchain: Web3.js/Ether.js, Smart Contract(Solidity/Rust/Tomb), Hardhat/Truffle/Remix, Dapps/NFT Marketplace/P2E/bots/Crypto wallets, Wagmi, Alchemy, Moralis, networks(evm, solana, Iota, phantasma) …
+- Database: MySQL, MongoDB, SQLite, Amazon DynamoDB, S3, PostgreSQL, Supabase ...
+- AI/ML: Numpy, Pandas, Matplotlib, Tensorflow/Keras, Pytorch ...
+- Rest API: Langchain, OpenAI, Llama, Transformers/Huggingface ...
+- Mobile: React Native, Java, Flutter, Kotlin ...
+- PM Tools: Github, Gitlab, Trello, Monday, Bitbucket, Jira ...
+- Services: Netlify/Vercel, Docker, AWS, Azure, Google Cloud, Heroku, IPFS ...
+- Others: Figma, Adobe XD, Webflow, Linux, nginx, Hostinger …
+
+So, I am passionate about launching, developing, and maintaining web and blockchain projects, leveraging my broad experience in frontend and backend development, Web3 integration, system and application security, auditing, and project management, alongside my intuitive problem-solving skills.
+<br/>
+
   </div>
   <div>
     <h3 align="left">Skill Set</h3>
@@ -66,3 +92,8 @@
     </p>
   </div> 
 </p>
+
+### 📊GitHub Stats
+
+---
+[![](https://github-readme-streak-stats.herokuapp.com?user=0xHarry2&theme=dark)](https://git.io/streak-stats)
